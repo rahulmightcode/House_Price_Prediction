@@ -1,2 +1,15 @@
-# House_Price_Prediction
-machine learning-based House Price Prediction app built using Python and Streamlit. It predicts house prices based on property features such as area, bedrooms, bathrooms, parking, and furnishing status. The app provides an interactive interface for entering property details and viewing predicted prices.
+# House Price Prediction
+
+A machine learning project that predicts house prices using Linear Regression.
+
+**Features**
+
+* Predicts house prices based on property details.
+* Uses area, bedrooms, bathrooms, stories, parking, and furnishing status.
+* Includes data preprocessing and feature scaling.
+* Provides an interactive web interface using Streamlit.
+* Saves the trained model using Joblib.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Streamlit, Joblib.
+
+**Deployment:** Streamlit Community Cloud
